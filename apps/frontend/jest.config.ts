@@ -6,13 +6,13 @@ const createJestConfig = nextJest({
 });
 
 const config: Config = {
-  displayName: '@pafi-platform/pafi-platform',
+  displayName: '@pafi-platform/frontend',
   preset: '../../jest.preset.js',
   transform: {
     '^(?!.*\\.(js|jsx|ts|tsx|css|json)$)': '@nx/react/plugins/jest',
   },
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx'],
-  coverageDirectory: '../../coverage/apps/pafi-platform',
+  coverageDirectory: '../../coverage/apps/frontend',
   testEnvironment: 'jsdom',
 };
 
