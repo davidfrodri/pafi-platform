@@ -29,8 +29,8 @@
     "src/**/*.tsx",
     "src/**/*.js",
     "src/**/*.jsx",
-    "../../apps/pafi-platform/.next/types/**/*.ts",
-    "../../dist/apps/pafi-platform/.next/types/**/*.ts",
+    "../../apps/frontend/.next/types/**/*.ts",
+    "../../dist/apps/frontend/.next/types/**/*.ts",
     "next-env.d.ts"
   ],
   "exclude": [

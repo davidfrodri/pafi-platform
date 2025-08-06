@@ -1,10 +1,10 @@
 {
-  "name": "@pafi-platform/pafi-platform-e2e",
+  "name": "@pafi-platform/frontend-e2e",
   "version": "0.0.1",
   "private": true,
   "nx": {
     "implicitDependencies": [
-      "@pafi-platform/pafi-platform"
+      "@pafi-platform/frontend"
     ]
   }
 }

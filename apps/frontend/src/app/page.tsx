@@ -13,7 +13,7 @@ export default function Index() {
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              Welcome @pafi-platform/pafi-platform 👋
+              Welcome @pafi-platform/frontend 👋
             </h1>
           </div>
 
@@ -397,7 +397,7 @@ export default function Index() {
                 </svg>
                 View project details
               </summary>
-              <pre>nx show project @pafi-platform/pafi-platform --web</pre>
+              <pre>nx show project @pafi-platform/frontend --web</pre>
             </details>
             <details>
               <summary>
